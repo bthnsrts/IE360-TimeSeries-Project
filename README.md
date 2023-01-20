@@ -1,5 +1,5 @@
 # IE360-TimeSeries-Project
-Time series forecasting project given in the specialization course IE360 at Bogazici University.
+Time series forecasting group project given in the specialization course IE360 at Bogazici University.
 Click [here](https://bu-ie-360.github.io/spring22-bthnsrts/) for project report.
 
 Project Introduction:
